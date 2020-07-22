@@ -4,15 +4,15 @@
   }
 
 #box{
-    background-color:peachpuff (255, 255, 255);
-    padding:5px;
+    background-color:peachpuff (255, 255, 255, 255);
+    padding: 5px;
    
 }
 
  
 h2{
-    margin-bottom: 15px;
-    padding-top: 15px;
+    margin-bottom: 20px;
+    padding-top: 20px;
     text-align: center;
     background-color: lightgreen;
 }
@@ -57,7 +57,7 @@ h2{
     flood-color:black;
     font-style: normal;
     float: right;
-    padding:  10px 10px 5px 10px;
+    padding:  10px 40px 5px 10px;
 }
 
  
@@ -94,7 +94,7 @@ h2{
    }
 
    #p4 {
-    padding: 100px 100px 100px 10px;
+    padding: 120px 110px 130px 12px;
     border: 3px solid;
     font-size:18px;
     background-color:darkcyan;
@@ -239,7 +239,7 @@ h2{
 
 }
          
-@media (min-width:768px) and (max-width:991px)
+@media (min-width:620px) and (max-width:700px)
 {
 .colp1, .colp2, .colp3, .colp4, .colp5, .colp6,.colp7, .colp8, .colp9,.colp10, .colp11, .colp12 {
   float: left; 
